@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 42 29" width="42" height="29">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-672 -2156L694 -2156L694 1236L-672 1236Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.txt0 { font-size: 42px;letter-spacing: 4px;fill: #212121;font-family: "icomoon";text-anchor: middle } 
+	</style>
+	<g id="product" clip-path="url(#cp1)">
+		<g id="product">
+			<g id="body">
+				<g id="products">
+					<g id="load">
+						<text id="" style="transform: matrix(1,0,0,1,20.797,31.797)" >
+							<tspan x="0" y="0" class="txt0"></tspan>
+						</text>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
